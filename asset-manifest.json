@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/likes-app-tweets/static/css/main.7acaea2f.css",
+    "main.js": "/likes-app-tweets/static/js/main.07d3183d.js",
+    "index.html": "/likes-app-tweets/index.html",
+    "main.7acaea2f.css.map": "/likes-app-tweets/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/likes-app-tweets/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
